@@ -452,8 +452,3 @@ video-container
       button[type="submit"]:hover {
         background-color: pink; /* Cambia el color a rosado al pasar el mouse por encima */
       }
-      img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-      }
